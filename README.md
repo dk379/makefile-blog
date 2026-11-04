@@ -1,2 +1,2 @@
 # makefile-blog
-My blog on makefile.mk domain
+My blog hosted on makefile.mk domain. Created 2026-11-01
